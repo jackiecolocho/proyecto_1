@@ -1,0 +1,15 @@
+.wrapper{
+    background-color: beige;
+}
+
+.header{
+    background-color: thistle; 
+}
+
+.main{
+    background-color: rgb(192, 188, 188);
+}
+
+.footer{
+    background-color: lightblue;
+}
